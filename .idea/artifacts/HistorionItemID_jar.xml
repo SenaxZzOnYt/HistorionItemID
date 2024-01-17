@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HistorionItemID:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HistorionItemID_jar</output-path>
+    <root id="archive" name="HistorionItemID.jar">
+      <element id="module-output" name="HistorionItemID" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+name: HistorionItemID
+main: fr.SenaxZzOnYt.HistorionItemID.main.Main
+author: SenaxZz
+version: 1.0 
+description: Plugin de maintenance pour spigot.
+commands:
+  checkdupli:
+    description: Check for item duplication.
+    usage: /checkdupli
+    permission: itemid.checkdupli

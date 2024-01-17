@@ -1,0 +1,4 @@
+messages:
+  duplication-detected: "&cDuplication détecté"
+  item-unique: "&aCette item est unique."
+  no-unique-id: "&cCette item n'a pas d'id unique."
